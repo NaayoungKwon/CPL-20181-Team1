@@ -31,7 +31,7 @@ from util import *
 import table2 as table
 
 '''
-' name: Table
+' name: Table 
 ' function: store table's information & image containing table
 ' member data: info(cell's lefttop, rightbottom cutting points), img
 ' method: getInfo, getImage
